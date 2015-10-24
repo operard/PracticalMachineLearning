@@ -1,5 +1,8 @@
-# PracticalMachineLearning
-Repository to write up the Practical Machine Learning Test
+# Practical Machine Learning
+
+Coursera course: https://class.coursera.org/predmachlearn-033
+
+Description: Repository to write up the Practical Machine Learning Test
 
 
 ## Background
